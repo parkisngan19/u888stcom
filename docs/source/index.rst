@@ -1,22 +1,18 @@
-Welcome to Lumache's documentation!
+U888 – Tham gia sân chơi nhận ngay 888k
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`U888 <https://u888st.com/>`_ là nền tảng chơi game trực tuyến hàng đầu, cung cấp hơn 2.000 trò chơi đa dạng như nổ hũ, casino, thể thao, bắn cá, và xổ số. Thành lập năm 2019 tại Philippines và được PAGCOR cấp phép, U888 nhanh chóng thu hút hơn 4 triệu thành viên nhờ giao diện thân thiện, hệ thống bảo mật đạt chuẩn GEOTRUST, và công nghệ mã hóa SSL 128bit. 
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Với giao dịch nạp rút chỉ trong 3-5 phút, đa dạng phương thức thanh toán, cùng đội ngũ CSKH chuyên nghiệp hoạt động 24/7, U888 mang đến trải nghiệm an toàn, minh bạch và tiện lợi. Đặc biệt, tân thủ được tặng 888k khi đăng ký, cùng các sản phẩm nổi bật như sảnh casino hiện đại, nổ hũ jackpot lớn, bắn cá sôi động, và xổ số thưởng cao, U888 là điểm đến lý tưởng cho người đam mê giải trí trực tuyến.
 
-.. note::
+Thông tin liên hệ: 
 
-   This project is under active development.
+Địa chỉ: 27d Đ. Võ Văn Vân, ấp 1, Bình Chánh, Hồ Chí Minh, Việt Nam. 
 
-Contents
---------
+Phone: 0981132270. 
 
-.. toctree::
+Email: info@u888st.com. 
 
-   usage
-   api
+Website: https://u888st.com/ 
+
+#u888 #trangchuu888 #dangkyu888 #dangnhapu888 #linku888
